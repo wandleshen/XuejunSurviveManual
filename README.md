@@ -5,4 +5,6 @@
 如果你对文章内容有意见或者建议，请在Issues区指出，我们会不定期查看并review相关内容。
 
 ## Pull requests
-如果你想为本项目提供内容，请登陆GitHub并fork XuejunSurviveManual 到个人账户，导入repo后修改发起commit再提交Pull requests，相关内容在review后会增加到本项目中。
+如果你想为本项目提供内容，请登陆GitHub并fork [XuejunSurviveManual](https://github.com/wandleshen/XuejunSurviveManual) 到个人账户，导入repo后修改发起commit再提交Pull requests，相关内容在review后会增加到本项目中。
+
+## 目录
