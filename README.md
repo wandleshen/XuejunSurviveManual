@@ -8,4 +8,4 @@
 如果你想为本项目提供内容，请登陆GitHub并fork [XuejunSurviveManual](https://github.com/wandleshen/XuejunSurviveManual) 到个人账户，导入repo后修改发起commit再提交Pull requests，相关内容在review后会增加到本项目中。
 
 ## 目录
-* [序](https://github.com/wandleshen/XuejunSurviveManual/Preface/Preface.md)
+* [序](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/Preface.md)
