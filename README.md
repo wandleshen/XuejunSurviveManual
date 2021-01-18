@@ -10,3 +10,4 @@
 ## 目录
 ### 序
 * [序](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/Preface.md)
+* [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/WelcomToXuejun.md)
