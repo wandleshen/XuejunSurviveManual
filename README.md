@@ -10,5 +10,6 @@
 ## 目录
 ### [序](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/Preface.md)
 * [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/WelcomToXuejun.md)
-### [复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/Introduction.md)
+### 校园生存
+**[复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/Introduction.md)**
 * [如何复习](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/HowToReview.md)
