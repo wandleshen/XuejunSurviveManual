@@ -13,3 +13,4 @@
 ### 校园生存
 **[复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/Introduction.md)**
 * [如何复习](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/HowToReview.md)
+* [教学资料评测](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/PrepbooksReview.md)
