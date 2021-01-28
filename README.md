@@ -13,7 +13,7 @@
 ### [校园生存](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/README.md)
 
 **[思考·发言](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/README.md)**
-* [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/WelcomToXuejun.md)
+* [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/WelcomToXuejun.md)（此文章包含有争议内容，请带着批判与思考的眼光阅读）
 * [唯分数论](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/Gradism.md)
 
 **[复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/README.md)**
