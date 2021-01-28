@@ -9,8 +9,13 @@
 
 ## 目录
 ### [序](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/README.md)
-* [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/Preface/WelcomToXuejun.md)
-### 校园生存
+
+### [校园生存](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/README.md)
+
+**[思考·发言](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/README.md)**
+* [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/WelcomToXuejun.md)
+* [唯分数论](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/PointOfView/Gradism.md)
+
 **[复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/README.md)**
 * [如何复习](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/HowToReview.md)
 * [教学资料评测](https://github.com/wandleshen/XuejunSurviveManual/blob/main/GuideBook/RepairTheSky/PrepbooksReview.md)
