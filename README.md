@@ -5,7 +5,7 @@
 如果你对文章内容有意见或者建议，请在Issues区指出，我们会不定期查看并review相关内容。
 
 ## Pull requests
-如果你想为本项目提供内容，请登陆GitHub并fork [XuejunSurviveManual](https://github.com/wandleshen/XuejunSurviveManual) 到个人账户，导入repo后修改发起commit再提交Pull requests，相关内容在review后会merge到master branch中。或者如果你觉得这个过程过于复杂，也可以将内容发送至xjsurvivemanual@foxmail.com，我们会不定期接收整理（~~啥时候想起来啥时候收~~）。另外，我们推荐你发送markdown文件。
+如果你想为本项目提供内容，请登陆GitHub并fork [XuejunSurviveManual](https://github.com/wandleshen/XuejunSurviveManual) 到个人账户，在repo中修改后发起commit再Pull requests，相关内容在review后会merge到master branch中。或者如果你觉得这个过程过于复杂，也可以将内容发送至xjsurvivemanual@foxmail.com，我们会不定期接收整理（~~啥时候想起来啥时候收~~）。另外，我们推荐你发送markdown文件。
 
 ## 目录
 ### [序](https://github.com/wandleshen/XuejunSurviveManual/blob/master/Preface/README.md)
