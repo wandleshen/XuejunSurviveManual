@@ -15,6 +15,8 @@
 **[思考·发言](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/PointOfView/README.md)**
 * [欢迎来到学军中学（紫金港校区）](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/PointOfView/WelcomToXuejun.md)
 * [唯分数论](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/PointOfView/Gradism.md)
+* [三条高压线](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/PointOfView/ThreePowerline.md)
+* [关于摄像头](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/PointOfView/YesPrimeMoniter.md)
 
 **[复习补天](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/RepairTheSky/README.md)**
 * [如何复习](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/RepairTheSky/HowToReview.md)
