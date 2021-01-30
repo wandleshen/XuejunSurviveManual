@@ -1,5 +1,5 @@
 # 教学资料评测
-*本文作者：wandleShen*
+![](https://img.shields.io/badge/Auther-wandleshen-blue.svg)
 
 **请注意，本项目没有与任何出版社或商家店铺合作，故不提供任何直达链接，倘若你感兴趣，可以通过淘宝或京东搜索购买**
 

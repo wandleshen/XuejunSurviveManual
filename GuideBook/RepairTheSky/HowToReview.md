@@ -1,5 +1,5 @@
 # 复习建议
-*本文作者：wandleShen*
+![](https://img.shields.io/badge/Auther-wandleshen-blue.svg)
 
 * 保证自习课的学习效率，摸鱼就少摸一点，可以专门抽出一节自习课来摸鱼。
 * 尽量不要刷视频打游戏（我知道你会有一万种方法在XJ使用手机），看看偶尔新闻社会时事，这样不会占用太多时间。
