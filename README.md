@@ -27,5 +27,5 @@
 * [破解焦虑，三天备考](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/RepairTheSky/Three-dayGambling.md)
 
 **[带电操作](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/ElectroBoom/README.md)**
-* [恋爱指北](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/ElecroBoom/BadRoamance.md)
+* [恋爱指北](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/ElecroBoom/BadRomance.md)
 * [开车指南](https://github.com/wandleshen/XuejunSurviveManual/blob/master/GuideBook/ElectroBoom/DrivingLisence.md)
